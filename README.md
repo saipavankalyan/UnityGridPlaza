@@ -29,6 +29,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+
+https://github.com/saipavankalyan/UnityGridPlaza/assets/30022830/0f19adc9-3271-498f-8c62-d749e075972b
+
+Railway DB showing contents of the 2 tables
+
+https://github.com/saipavankalyan/UnityGridPlaza/assets/30022830/fc557f64-59b7-4d72-94ba-93330e603e91
+
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with MacOS screen recorder
